@@ -6,6 +6,7 @@ public class Persona {
     private char sexo;
     private float peso;
 
+    // Getter y Setter
     public String getNombre() {
         return this.nombre;
     }
